@@ -92,6 +92,6 @@ The login portal for affiliates and the operations leader “VoidSoup” is vuln
 -----
 ## Conclusion
 
-The dark web continues to pose a significant challenge for LE. Despite growing efforts from governments , threat actors show no indication of fully abandoning Tor. A major contributing factor to this issue is the lack of accessible education and training on how to combat the illegal domains.
+The dark web continues to pose a significant challenge for LE. Despite growing efforts from governments, threat actors show no indication of fully abandoning Tor. A major contributing factor to this issue is the lack of accessible education and training on how to combat the illegal domains.
 
 Thanks for reading, hope you found it interesting! 
