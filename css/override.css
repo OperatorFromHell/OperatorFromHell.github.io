@@ -102,11 +102,7 @@ a code {
 
 
 
-.wrapper {
-  max-width: 1200px !important;
-  padding-left: 24px !important;
-  padding-right: 24px !important;
-}
+.wrapper { max-width: 100% !important; }
 
 .post, .page {
   max-width: 100% !important;
