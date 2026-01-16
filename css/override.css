@@ -50,20 +50,51 @@ html, body {
 }
 
 
-.site-header, .site-footer, .page-content, .post-content, .wrapper {
+.site-header,
+.site-footer,
+.page-content,
+.post-content,
+.wrapper {
   background: #000 !important;
+  color: #00ff00 !important;
+  border-color: #003300 !important;
+}
+
+h1, h2, h3, h4, h5, h6,
+.site-title,
+.post-title {
+  color: #00ff00 !important;
+}
+
+
+.site-nav .page-link {
   color: #00ff00 !important;
 }
 
 
 a, a:visited {
   color: #00ff00 !important;
+  text-decoration: underline !important;
+  text-decoration-thickness: 2px;
+  text-underline-offset: 3px;
 }
+
+
 a:hover, a:focus {
   color: #66ff66 !important;
+  text-decoration-thickness: 3px;
+  outline: 2px solid #00ff00;
+  outline-offset: 2px;
 }
+
 
 pre, code {
   background: #111 !important;
   color: #00ff00 !important;
+  border-color: #003300 !important;
+}
+
+
+a code {
+  text-decoration: underline !important;
 }
