@@ -1,5 +1,5 @@
 # Exposed MongoDB Instances: A Threat Actor’s Goldmine?
-![Image of a pirate.]({{ "/assets/images/pirate.webp" | relative_url }})
+![Image of a pirate.]({{ "/assets/images/pirate.png" | relative_url }})
 
 -----
 
@@ -34,7 +34,7 @@ The current results as of (22/10/24) are the following:
 
 The impacted party operates within the logistics sector. The data found potentially could have been abused for third-party compromise.
 ![An expossed Mongo instance.]({{ "/assets/images/exposed_mongo_db.webp" | relative_url }})
-~# Exposed MongoDB instance
+<p align="center"><em>Exposed MongoDB instance.</em></p>
 
 This is just one example of multiple of a vulnerability disclosure I have conducted with exposed MongoDB instances.
 
