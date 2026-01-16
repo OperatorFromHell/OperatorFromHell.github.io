@@ -1,3 +1,9 @@
+---
+layout: post
+title: "Exposed Mongo"
+image: /assets/images/pirate.png
+---
+
 # Exposed MongoDB Instances: A Threat Actor’s Goldmine?
 ![Image of a pirate.]({{ "/assets/images/pirate.png" | relative_url }})
 
