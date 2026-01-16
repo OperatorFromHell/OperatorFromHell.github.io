@@ -1,0 +1,37 @@
+@import "minima";
+
+body {
+  background: #000;
+  color: #00ff00;
+}
+
+
+a, a:visited {
+  color: #00ff00;
+}
+a:hover, a:focus {
+  color: #66ff66;
+}
+
+.site-header,
+.site-footer {
+  background: #000;
+  border-color: #003300;
+}
+
+h1, h2, h3, h4, h5, h6,
+.site-title,
+.post-title {
+  color: #00ff00;
+}
+
+
+.site-nav .page-link {
+  color: #00ff00;
+}
+
+pre, code {
+  background: #111;
+  color: #00ff00;
+  border-color: #003300;
+}
