@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Cyber Cat and Mouse"
-image: /assets/images/pirate.png
+image: /assets/images/cyber_cat_and_mouse.webp
 ---
 
 
