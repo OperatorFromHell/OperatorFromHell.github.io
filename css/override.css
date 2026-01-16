@@ -43,3 +43,27 @@ hr {
   font-size: 2.5em;
   opacity: 0.3;
 }
+
+html, body {
+  background: #000 !important;
+  color: #00ff00 !important;
+}
+
+
+.site-header, .site-footer, .page-content, .post-content, .wrapper {
+  background: #000 !important;
+  color: #00ff00 !important;
+}
+
+
+a, a:visited {
+  color: #00ff00 !important;
+}
+a:hover, a:focus {
+  color: #66ff66 !important;
+}
+
+pre, code {
+  background: #111 !important;
+  color: #00ff00 !important;
+}
