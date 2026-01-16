@@ -80,13 +80,6 @@ a, a:visited {
 }
 
 
-a:hover, a:focus {
-  color: #66ff66 !important;
-  text-decoration-thickness: 3px;
-  outline: 2px solid #00ff00;
-  outline-offset: 2px;
-}
-
 
 pre, code {
   background: #111 !important;
