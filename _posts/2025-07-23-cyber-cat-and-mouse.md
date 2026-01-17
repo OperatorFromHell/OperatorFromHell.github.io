@@ -21,7 +21,8 @@ This article will be discussing my dissertation project [“VoidCore”](https:/
 The “Dark Web” is an umbrella term for a hidden part of the internet that a user cannot access without access to specific software. Since its creation, it has grown in both user base and illegal activity.
 
 ![Iceberg of Webs](https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/Iceberg_of_Webs.svg/960px-Iceberg_of_Webs.svg.png?20251107174510 "Iceberg of Webs")
-<p align="center"><em>Iceberg of the webs - https://commons.wikimedia.org/wiki/File:Iceberg_of_Webs.svg </em></p>
+<p align="center"><em>Iceberg of the webs</em></p>
+<p align="center"><em>https://commons.wikimedia.org/wiki/File:Iceberg_of_Webs.svg</em></p>
 
 The Dark Web can be broken down into multiple technologies that fall under the umbrella. The most popular of which is [Tor (The Onion Router)](https://www.torproject.org/). Other alternatives projects include [I2P (The Invisible Internet Project)](https://geti2p.net/en/) and [Freenet](https://freenet.org/).
 
@@ -36,19 +37,22 @@ The Dark Web, unfortunately, causes major challenges for LE with a significant n
 LE entities typically exploit cyber security vulnerabilities and capitalise on poor OPSEC (Operational Security) against targeted domains. LE exploits the flaws for several reasons, such as gathering evidence, identify threat actors real-world identities and harvesting decryption keys. LE also use compromised Tor domains for reputational damage against threat actors; Typically defacing seized domains with a notice of seizure, which will affect the impacted domain’s reputation amongst cybercriminals. An example this can be seen below.
 
 ![Breach Forums Seizure Notice](https://cdn.sanity.io/images/fo9xc2x1/production/680664edea53e0828fea476584401048438d12db-2832x1636.jpg?w=2832&h=1636&fm=webp&q=90&fit=max&auto=format&dpr=2 "Breach Forums Seizure Notice")
-<p align="center"><em>Breach Forums seizure notice (May 15,2024) – https://intel471.com/blog/breachforums-saga-continues-whats-next </em></p>
+<p align="center"><em>Breach Forums seizure notice (May 15,2024) </em></p>
+<p align="center"><em>https://intel471.com/blog/breachforums-saga-continues-whats-next </em></p>
 
 -----
 ## LockBit seizure
 Several landmark actions have targeted the dark web. One particularly influential case inspired my dissertation is the seizure of the LockBit’s DLS.
 
 ![LockBit’s compromised DLS ](https://www.nationalcrimeagency.gov.uk/images/Feb2024/Leak_site.jpeg "LockBit’s compromised DLS")
-<p align="center"><em>LockBit’s compromised DLS – https://www.nationalcrimeagency.gov.uk/the-nca-announces-the-disruption-of-lockbit-with-operation-cronos</em></p>
+<p align="center"><em>LockBit’s compromised DLS</em></p>
+<p align="center"><em>https://www.nationalcrimeagency.gov.uk/the-nca-announces-the-disruption-of-lockbit-with-operation-cronos</em></p>
 
 In [February 2024](https://www.nationalcrimeagency.gov.uk/the-nca-announces-the-disruption-of-lockbit-with-operation-cronos), NCA (National Crime Agency) with partners disrupted [LockBit](https://www.cisa.gov/news-events/cybersecurity-advisories/aa23-165a), a Russian Ransomware-as-a-Service (RaaS) operation with Operation Cronos; This led to the seizure of the domain and gathered large sums of data such as affiliate names leading to numerous arrests. LE utilised the compromised domain to share several of their findings. According to the education and research group [VX-Underground](https://vx-underground.org/), LE allegedly compromised the domain via [CVE-2023-3824](https://nvd.nist.gov/vuln/detail/cve-2023-3824), a PHP Buffer overflow flaw.
 
 ![vx-ug tweet.]({{ "/assets/images/vx-ug_tweet.png" | relative_url }})
-<p align="center"><em>VX-Underground tweet – https://x.com/vxunderground/status/1759732862335504773</em></p>
+<p align="center"><em>VX-Underground tweet</em></p>
+<p align="center"><em>https://x.com/vxunderground/status/1759732862335504773</em></p>
 
 -----
 ## The findings
