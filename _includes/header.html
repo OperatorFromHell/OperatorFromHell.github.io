@@ -1,0 +1,12 @@
+<header class="site-header" role="banner">
+  <div class="wrapper">
+    <a class="site-title" rel="author" href="{{ "/" | relative_url }}">
+      {%- if site.logo -%}
+        <img class="site-logo" src="{{ site.logo | relative_url }}" alt="{{ site.title | escape }} logo">
+      {%- endif -%}
+      <span class="site-title-text">{{ site.title | escape }}</span>
+    </a>
+
+    {%- include navlinks.html -%}
+  </div>
+</header>
