@@ -174,3 +174,17 @@ a code {
   align-items: center;
 }
 
+
+.site-header .header-wrap {
+  display: flex;
+  align-items: center;
+}
+
+
+.header-nav {
+  margin-left: auto;
+  display: inline-flex;
+  gap: 16px;
+  align-items: center;
+}
+
