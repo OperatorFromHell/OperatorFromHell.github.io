@@ -131,3 +131,14 @@ a code {
   margin: 0 auto !important;
 }
 
+.post-content img {
+  display: block !important;
+  margin-left: auto !important;
+  margin-right: auto !important;
+}
+
+.post-content img,
+.page-content img {
+  display: block !important;
+  margin: 16px auto !important;
+}
