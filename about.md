@@ -10,6 +10,8 @@ I have spoken at several conferences and events, including BSides Leeds and Newc
 
 I am also an alumnus of Leeds Beckett University and have previously served as President of Leeds Beckett University’s Ethical Hacking Society.
 
-If you wish to contact me please contact me on my LinkedIn.
+If you wish to contact me please contact me on my [LinkedIn](https://www.linkedin.com/in/jordan-powell1/).
+
+I am always open to collaborations and suggestions!
 
 Thanks for reading, hope you enjoy!
