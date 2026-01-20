@@ -188,11 +188,11 @@ a code {
 }
 
 
-.header-nav .page-link {
+/* .header-nav .page-link {
   font-size: 1.6rem;
   line-height: 1;
 }
-
+*/
 @media screen and (max-width: 600px) {
   .site-header .header-wrap {
     display: flex !important;
