@@ -195,13 +195,17 @@ a code {
 
 @media screen and (max-width: 600px) {
   .site-header .header-wrap {
-    flex-direction: column !important;
-    align-items: flex-start !important;
-    gap: 6px !important;
+    display: flex !important;
+    flex-direction: row !important;
+    align-items: center !important;
+    flex-wrap: nowrap !important;
+    gap: 10px !important;
   }
 
   .site-title {
-    font-size: 1.15rem !important;
+    font-size: 1.1rem !important;
+    font-weight: 800 !important;
+    white-space: nowrap !important;
   }
 
   .site-logo {
@@ -209,13 +213,17 @@ a code {
   }
 
   .header-nav {
-    margin-left: 0 !important;
+    margin-left: auto !important;
+    display: flex !important;
     gap: 10px !important;
+    flex-wrap: nowrap !important;
+    white-space: nowrap !important;
   }
 
   .header-nav .page-link {
-    font-size: 0.95rem !important;
-    padding: 2px 0 !important;
+    font-size: 0.85rem !important;
+    font-weight: 700 !important;
+    padding: 0 !important;
     border: none !important;
     text-decoration: underline !important;
   }
