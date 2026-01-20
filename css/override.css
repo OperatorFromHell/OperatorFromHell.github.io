@@ -242,13 +242,26 @@ a code {
     display: none !important;
   }
 }
+    
+html {
+  -webkit-text-size-adjust: 100% !important;
+  text-size-adjust: 100% !important;
+}
 
-@media screen and (max-width: 600px) {
-  html, body {
-    -webkit-text-size-adjust: 100% !important;
-    text-size-adjust: 100% !important;
+@media screen and (max-width: 900px) {
+  .header-nav .page-link {
+    font-size: 14px !important;
+    line-height: 1 !important;
+    padding: 0 !important;
+  }
+
+  .header-nav {
+    gap: 10px !important;
+    white-space: nowrap !important;
+    flex-wrap: nowrap !important;
   }
 }
+
 
 
 
