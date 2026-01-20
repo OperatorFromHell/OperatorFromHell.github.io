@@ -194,31 +194,30 @@ a code {
 }
 
 @media screen and (max-width: 600px) {
-  .site-header {
-    padding: 6px 0 !important;
-    margin-bottom: 10px !important;
-  }
-
   .site-header .header-wrap {
-    gap: 10px;
+    flex-direction: column !important;
+    align-items: flex-start !important;
+    gap: 6px !important;
   }
 
-  .site-title,
-  .header-nav .page-link {
-    font-size: 0.95rem !important;
-    font-weight: 800;
+  .site-title {
+    font-size: 1.15rem !important;
   }
 
   .site-logo {
-    height: 18px !important;
+    height: 20px !important;
   }
 
   .header-nav {
+    margin-left: 0 !important;
     gap: 10px !important;
   }
 
   .header-nav .page-link {
-    padding: 4px 6px !important;
+    font-size: 0.95rem !important;
+    padding: 2px 0 !important;
+    border: none !important;
+    text-decoration: underline !important;
   }
 }
 
