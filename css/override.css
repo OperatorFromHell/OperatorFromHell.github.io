@@ -226,6 +226,21 @@ a code {
     padding: 0 !important;
     border: none !important;
     text-decoration: underline !important;
+
+  .site-nav .page-link {
+    font-size: 0.85rem !important;
+    line-height: 1 !important;
+    padding: 0 !important;
+  }
+
+  .site-nav {
+    font-size: 0.85rem !important;
+    line-height: 1 !important;
+
+  .site-nav input,
+  .site-nav label {
+    display: none !important;
   }
 }
+
 
