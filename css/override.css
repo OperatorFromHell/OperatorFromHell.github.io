@@ -249,16 +249,24 @@ html {
 }
 
 @media screen and (max-width: 900px) {
-  .header-nav .page-link {
+  .site-header .site-nav.header-nav .page-link {
     font-size: 14px !important;
     line-height: 1 !important;
     padding: 0 !important;
   }
 
-  .header-nav {
+  .site-header .site-nav.header-nav {
     gap: 10px !important;
     white-space: nowrap !important;
     flex-wrap: nowrap !important;
+  }
+
+  .site-header .site-title {
+    font-size: 18px !important;
+  }
+
+  .site-header .site-logo {
+    height: 20px !important;
   }
 }
 
